@@ -1,0 +1,17 @@
+{
+  "name": "jsaqa_3_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Igor Smirnov",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.2.0",
+    "prettier": "^3.0.3",
+    "puppeteer": "^13.3.2"
+  },
+  "description": ""
+}
